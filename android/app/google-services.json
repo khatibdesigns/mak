@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "769030626773",
+    "project_id": "m-a-k-store-naqs4a",
+    "storage_bucket": "m-a-k-store-naqs4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769030626773:android:3ee58ad433bf7b2bac715c",
+        "android_client_info": {
+          "package_name": "com.khd.mak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769030626773-mqfgkds5ttffhluq3dhkrfe7d9hookq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8lY_Cz5GkYHjimIY057Jgw6DHNc_NnfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769030626773-mqfgkds5ttffhluq3dhkrfe7d9hookq0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769030626773-7fs5c5i0rnqsgaal9lu7tfjo6m8r4ksc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.khd.mak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
